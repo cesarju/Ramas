@@ -1,7 +1,7 @@
 # Readme
 
-1. Gus 
-2. yorch
+1. **Gus** 
+2. **yorch**
 
 ### Study jam de Git 
 
