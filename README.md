@@ -11,4 +11,4 @@
 		}
 	}
 
-![logo] (/home/cesar/Descargas/logo.png)
+![logo](logo.png)
