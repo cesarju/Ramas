@@ -5,8 +5,10 @@
 
 ### Study jam de Git 
 
-	class Prueba{
+	**class** Prueba{
 		fun miFuncion{
 			print("Hola Mundo")
 		}
 	}
+
+![logo] (/home/cesar/Descargas/logo.png)
