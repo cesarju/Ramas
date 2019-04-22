@@ -11,5 +11,9 @@
 		}
 	}
 
-<p align="center">![Putos](homero.gif)</p>
+<div align="center">
+	<center>
+		![Putos](homero.gif)
+	</center>
+</div>
 
