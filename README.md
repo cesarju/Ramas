@@ -5,12 +5,11 @@
 
 ### Study jam de Git 
 
-	**class** Prueba{
+	class Prueba{
 		fun miFuncion{
 			print("Hola Mundo")
 		}
 	}
 
-<center>
-![Putos](homero.gif)
-</center>
+<center>![Putos](homero.gif)</center>
+
