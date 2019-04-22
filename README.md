@@ -11,7 +11,9 @@
 		}
 	}
 
-
+<center>
 ![logo](logo.png)
 
 ![Putos](homero.gif)
+
+</center>
